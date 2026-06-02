@@ -602,8 +602,6 @@ print("Results saved to rag_evaluation_results.xlsx")
 ```
 """
 
-display(df_comparison)
-
 import pandas as pd
 import random
 
